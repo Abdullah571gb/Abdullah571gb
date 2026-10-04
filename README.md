@@ -33,7 +33,7 @@
 
 ### 🏆 Flagship Projects
 
-**[Daily Briefing System](./projects/daily-briefing-system)**
+**[Daily Briefing System]([./projects/daily-briefing-system](https://github.com/Abdullah571gb/Project-5-Daily-Briefing-System))**
 Automated morning briefing — weather, news, calendar.
 Runs every day at 9 AM without human intervention.
 `n8n` `Groq AI` `RSS` `Notion` `Telegram`
