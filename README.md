@@ -38,22 +38,22 @@ Automated morning briefing — weather, news, calendar.
 Runs every day at 9 AM without human intervention.
 `n8n` `Groq AI` `RSS` `Notion` `Telegram`
 
-**[AI Lead Qualification System](./projects/lead-capture-system)**
+**[AI Lead Qualification System](https://github.com/Abdullah571gb/Project-6-Lead-Capture-System)**
 Captures leads via webhook → AI qualifies → alerts sales team.
 Processes leads in under 10 seconds automatically.
 `n8n` `Groq AI` `Google Sheets` `Telegram`
 
-**[Personal RAG Knowledge Base](./projects/rag-knowledge-base)**
+**[Personal RAG Knowledge Base](https://github.com/Abdullah571gb/Project-9-RAG-Knowledge-Base)**
 Ask questions about any document collection.
 Built with LangChain, HuggingFace embeddings, FAISS.
 `LangChain` `RAG` `FAISS` `HuggingFace` `Groq`
 
-**[Multi-Agent Content Creator](./projects/crewai-content-pipeline)**
+**[Personal AI Assistant Agent](https://github.com/Abdullah571gb/Project-8-Personal-AI-Assistant-LangChain-)**
 Research + write + edit content automatically.
-3 specialized AI agents working as a team.
-`CrewAI` `LangChain` `Groq` `DuckDuckGo`
+Specialized AI agent working.
+`n8n` `http request` `Groq` `google sheet`
 
-**[Custom MCP Server](./projects/mcp-server)**
+**[Custom MCP Server](https://github.com/Abdullah571gb/Project-10-custom-mcp-tool-server)**
 6-tool MCP server — weather, news, lead scoring, reports.
 Compatible with Claude, LangChain, n8n.
 `MCP Protocol` `Python` `Flask`
